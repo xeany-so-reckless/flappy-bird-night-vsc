@@ -1,4 +1,4 @@
-# Flappy Bird Game Night Version 
+# Flappy Bird Game Night Version (Me)
 
 inspired by https://www.youtube.com/@mehmetemineker
 
